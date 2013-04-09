@@ -45,4 +45,9 @@ return array(
 		'auto' => 'true'
 	),
 
+	'installer' => array(
+		'auto' => true,
+		'handles' => 'install',
+	),
+
 );
