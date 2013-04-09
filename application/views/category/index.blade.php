@@ -1,0 +1,1 @@
+This is the /Users/ajenkins/Desktop/Dropbox/Coding/PHP/leap/application/views/category/index.blade.php view

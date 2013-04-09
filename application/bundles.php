@@ -35,7 +35,12 @@
 
 return array(
 
-	'docs' => array('handles' => 'docs'),
+	'docs' => array(
+		'handles' => 'docs'
+	),
+	'sentry' => array(
+		'auto' => true
+	),
 	'messages' => array(
 		'auto' => 'true'
 	),

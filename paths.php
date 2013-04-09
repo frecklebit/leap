@@ -50,7 +50,7 @@ $paths['storage'] = 'storage';
 // --------------------------------------------------------------
 // The path to the public directory.
 // --------------------------------------------------------------
-$paths['public'] = '';
+$paths['public'] = 'assets';
 
 // *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 // END OF USER CONFIGURATION. HERE BE DRAGONS!
